@@ -3,5 +3,7 @@ For the black and white colors, the points are calculated on knights, pawns and 
 
 Usage:
 >> javac Main.java
+
+
 >> java Main board1.txt
 
